@@ -1,0 +1,8 @@
+# Python 3.9.19
+fastapi==0.103.0
+numpy==1.26.3
+Pillow==10.0.1
+python-multipart==0.0.6
+tensorflow==2.15.0
+uvicorn==0.20.0
+
